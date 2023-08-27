@@ -1,4 +1,4 @@
 # code-with-ms
 My first repository
 <br>
-Author - Sanan Nawaz
+Author - M Sanan Nawaz
